@@ -9,4 +9,4 @@ elsif def reverse_string(string)
 end
 puts reverse_string(:sentence2)
 
-elsif 
+end 
